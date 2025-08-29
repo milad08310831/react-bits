@@ -4,7 +4,9 @@ import "./FallingText.css";
 
 const FallingText = ({
   className = '',
-  text = '',
+  text = today
+  we need
+  a wonderful'',
   highlightWords = [],
   highlightClass = "highlighted",
   trigger = "auto",
